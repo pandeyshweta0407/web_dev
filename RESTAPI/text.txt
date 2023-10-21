@@ -1,0 +1,21 @@
+1)create  a server with express
+    npm init -y 
+    npm i express mongoose dotenv cors nodemon
+2)Setup Routes & Controllers using Express Routers
+    app.get( Routers, Controllers);
+    app.get("/" , (req,res)=>{res.send("hi, I am live")});
+    
+3)Testing API using Postman & Thunderbolt 
+4)Introduction to MongoDB & Mongoose || Connect Backend to Database 💻
+5)Secure Your Personal Data with DOTENV ❤️‍🔥
+6)Create Schema & Model (Collection & Tables) using Mongoose & Express JS
+7)Create Schema & Model (Collection & Tables) using Mongoose & Express JS
+8)Stored API data (JSON) in Database using Express & Mongoose ❤️‍🔥 
+  how to add json data into db
+9)Read Data from Database using Express & Mongoose  
+  Read db data
+Rest API #10: Add Filtration & Searching Functionality with Query Props
+Rest API #11: Add Company Filter in API & Make API Work Better  
+
+
+

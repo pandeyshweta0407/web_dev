@@ -1,0 +1,36 @@
+[
+    {
+     "name" :"iphone",
+     "price":154,
+     "feature" : true,
+     "company" : "apple"
+    },
+    {
+        "name" :"iphone",
+        "price":154,
+        "feature" : true,
+        "company" : "apple"
+       },
+       {
+        "name" :"iphone",
+        "price":154,
+        "feature" : true,
+        "company" : "apple"
+       },
+       {
+        "name" :"iphone",
+        "price":154,
+        "feature" : true,
+        "company" : "apple"
+       },{
+        "name" :"iphone",
+        "price":154,
+        "feature" : true,
+        "company" : "apple"
+       },{
+        "name" :"iphone",
+        "price":154,
+        "feature" : true,
+        "company" : "apple"
+       }
+]

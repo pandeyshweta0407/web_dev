@@ -1,0 +1,46 @@
+/* .box{
+    border: 2px solid black;
+    width:70vmin ;
+    height: 70vmin;
+    display : flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 100px;
+    left :500px;
+}
+
+.text{
+    color: rgb(172, 51, 51);
+    font-size: 25px;
+    margin-bottom: 2px;
+}
+
+.inner-box{
+    border: 2px solid black;
+    width:50vmin ;
+    height: 30vmin;
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 1px;
+    left : 1px;
+    right : 1px;
+}
+
+.time{
+    border:  2px solid black;
+    width : 10vmin;
+    height : 15vmin;
+    margin: 5px;
+    color: rgb(172, 51, 51);
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+
+} */
+
